@@ -8,7 +8,7 @@ Box breathing can supposedly releive stress, help you focus, etc. Some even say 
 
 I looked at various mobile apps, and unsurprisingly most want to charge you something like a $10 monthly subscription fee. Ridiculous. Honestly you don't even need this app. Just do what I just described above. It's easy.
 
-But I do like the idea of having something there to keep track of the beats and reps as I tend to lose focus... while trying to improve focus. So I made a command line app! It's free!
+But I do like the idea of having something there to keep track of the beats and reps as I tend to lose focus... while trying to improve focus. So I made a command line app! It's free! It's open source. It's a trivial amount of code.
 
 ## Installation
 
