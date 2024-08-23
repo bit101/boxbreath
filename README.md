@@ -30,11 +30,9 @@ Simple use, just type:
 
 `boxbreath`
 
-or
+or if you installed it to a custom path:
 
 `path/to/boxbreath`
-
-if you build it yourself.
 
 When you launch the app, it will let you choose which type of session you want to do (box or 4-7-8) and let you specify how many breaths to do (and for box breathing, the count of each segment).
 
